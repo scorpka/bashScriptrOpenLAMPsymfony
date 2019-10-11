@@ -3,3 +3,4 @@ sudo systemctl start mariadb.service
 sudo systemctl start httpd.service
 cd /home/vacilica/startrack
 symfony server:start
+/
